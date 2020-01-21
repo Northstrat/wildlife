@@ -1,0 +1,99 @@
+{
+    "Rodents": [
+        { "status": "EN", "name": "Eurasian beaver" },
+        { "status": "CR", "name": "European water vole" },
+        { "status": "LC", "name": "Bank vole" },
+        { "status": "LC", "name": "Field vole" },
+        { "status": "VU", "name": "Orkney vole" },
+        { "status": "VU", "name": "Eurasian harvest mouse" },
+        { "status": "LC", "name": "Wood mouse" },
+        { "status": "LC", "name": "Yellow-necked mouse" },
+        { "status": "LC", "name": "House mouse" },
+        { "status": "CR", "name": "Black rat" },
+        { "status": "LC", "name": "Brown rat" },
+        { "status": "VU", "name": "Hazel dormouse" },
+        { "status": "EN", "name": "Red squirrel" },
+        { "status": "LC", "name": "Eastern gray squirrel" }
+    ],
+    "Odd-toed ungulates": [
+        { "status": "EN", "name": "Dartmoor pony" }
+    ],
+    "Whales and dolphins": [
+        { "status": "CR", "name": "North Atlantic right whale" },
+        { "status": "EN", "name": "Blue whale" },
+        { "status": "LC", "name": "Humpback whale" },
+        { "status": "VU", "name": "Harbour porpoise" },
+        { "status": "VU", "name": "Sperm whale" },
+        { "status": "DD", "name": "Cuvier's beaked whale" },
+        { "status": "DD", "name": "Northern bottlenose whale" },
+        { "status": "DD", "name": "Sowerby's beaked whale" },
+        { "status": "DD", "name": "Gervais's beaked whale" },
+        { "status": "DD", "name": "True's beaked whale" },
+        { "status": "DD", "name": "Short-beaked common dolphin" },
+        { "status": "DD", "name": "Common bottlenose dolphin" },
+        { "status": "DD", "name": "Striped dolphin" },
+        { "status": "LC", "name": "Atlantic white-sided dolphin" },
+        { "status": "LC", "name": "White-beaked dolphin" },
+        { "status": "DD", "name": "Risso's dolphin" },
+        { "status": "DD", "name": "Orca" }
+    ],
+    "Carnivorans": [
+        { "status": "NT", "name": "Red fox" },
+        { "status": "EX", "name": "Wolf" },
+        { "status": "VU", "name": "European otter" },
+        { "status": "LC", "name": "European badger" },
+        { "status": "CR", "name": "European pine marten" },
+        { "status": "NT", "name": "Stoat" },
+        { "status": "LC", "name": "Least weasel" },
+        { "status": "EN", "name": "European polecat" },
+        { "status": "EX", "name": "Scottish wildcat" },
+        { "status": "CR", "name": "South American coati" },
+        { "status": "LC", "name": "Grey seal" },
+        { "status": "LC", "name": "Common seal" }
+    ],
+    "Even-toed ungulates": [
+        { "status": "EN", "name": "Wild boar" },
+        { "status": "LC", "name": "Red deer" },
+        { "status": "LC", "name": "Fallow deer" },
+        { "status": "LC", "name": "Roe deer" },
+        { "status": "DD", "name": "Moose" },
+        { "status": "EN", "name": "Reindeer" }
+    ],
+    "Bats": [
+        { "status": "NT", "name": "Greater horseshoe bat" },
+        { "status": "LC", "name": "Lesser horseshoe bat" },
+        { "status": "EN", "name": "Bechstein's bat" },
+        { "status": "CR", "name": "Greater mouse-eared bat" },
+        { "status": "DD", "name": "Whiskered bat" },
+        { "status": "DD", "name": "Brandt's bat" },
+        { "status": "LC", "name": "Natterer's bat" },
+        { "status": "LC", "name": "Daubenton's bat" },
+        { "status": "DD", "name": "Alcathoe bat" },
+        { "status": "VU", "name": "Serotine" },
+        { "status": "LC", "name": "Common noctule" },
+        { "status": "NT", "name": "Lesser noctule" },
+        { "status": "VU", "name": "Nathusius pipistrelle" },
+        { "status": "LC", "name": "Common pipistrelle" },
+        { "status": "LC", "name": "Soprano pipistrelle" },
+        { "status": "VU", "name": "Barbastelle" },
+        { "status": "LC", "name": "Brown long-eared bat" },
+        { "status": "EN", "name": "Grey long-eared bat" },
+        { "status": "LC", "name": "Parti-coloured bat" }
+    ],
+    "Moles, shrews and hedgehogs": [
+        { "status": "LC", "name": "European mole" },
+        { "status": "LC", "name": "Common shrew" },
+        { "status": "LC", "name": "Eurasian pygmy shrew" },
+        { "status": "LC", "name": "Eurasian water shrew" },
+        { "status": "NT", "name": "Lesser white-toothed shrew" },
+        { "status": "VU", "name": "European hedgehog" }
+    ],
+    "Wallabies": [
+        { "status": "EN", "name": "Red-necked wallaby" }
+    ],
+    "Rabbits and hares": [
+        { "status": "VU", "name": "Mountain hare" },
+        { "status": "LC", "name": "European hare" },
+        { "status": "VU", "name": "European rabbit" }
+    ]
+}
